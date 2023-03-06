@@ -1,0 +1,21 @@
+{
+  "group": "avaritiacookies",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 0 ",
+    "010",
+    " 0 "
+  ],
+  "key": {
+    "0": {
+      "item": "avaritia:ultimate_stew"
+    },
+    "1": {
+      "item": "minecraft:cookie"
+    }
+  },
+  "result": {
+    "item": "avaritiacookies:avaritiacookies",
+    "count": 1
+  }
+}

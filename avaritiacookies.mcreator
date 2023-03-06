@@ -1,0 +1,59 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Avaritiacookies",
+      "type": "food",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "avaritiacookies"
+    },
+    {
+      "name": "Avaritiacookies1",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "avaritiacookies_1"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.avaritiacookies.name": "Avaritia Cookies"
+    },
+    "zh_cn": {
+      "item.avaritiacookies.name": "ÎÞ¾¡ÇúÆæ"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "avaritiacookies",
+    "modName": "AvaritiaCookies",
+    "version": "0.0.1",
+    "description": "Just Some Delicious Cookies.",
+    "author": "BunnimimiTotem",
+    "websiteURL": "https://github.com/ojng-studios",
+    "license": "MIT License",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [
+      "Avaritia"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "credits": "MCreator, Ojng Studios",
+    "modElementsPackage": "io.github.ojngstudios.avaritiacookies",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}
